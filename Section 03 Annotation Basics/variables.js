@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var movieTitle = "Amadeus";
+movieTitle = "Arrival";
+// movieTitle = 9;
+// movieTitle.upper();
+movieTitle.toUpperCase();
+console.log(movieTitle);
+var numCatLives = 9;
+numCatLives++;
+// numCatLives = "Zero";
+var gameOver = false;
+gameOver = true;
