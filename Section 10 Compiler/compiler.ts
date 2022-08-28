@@ -11,3 +11,5 @@ const norma: Chicken = {
   name: "Norma",
   age: 2,
 };
+
+// Test aja
